@@ -21,5 +21,5 @@ button(1)
 scroll_to
 ```
 
-Limited sample codes are available here https://github.com/appium/sample-code/tree/master/sample-code/examples/ruby
+Limited sample codes are available here https://github.com/appium/ruby_lib/blob/master/docs/android_docs.md
 

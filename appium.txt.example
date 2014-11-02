@@ -1,0 +1,10 @@
+[caps]
+deviceName = "0305f6f60937cfa2" # emulator-5554
+platformName = "Android"
+appActivity = ".Settings"
+appWaitActivity = "com.android.settings"
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false
+
